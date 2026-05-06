@@ -1,2 +1,2 @@
 # AnaliseDeDados
-Projeto que irá analisar os dados sobre a Sono e Estilo de Vida
+Projeto que irá analisar os dados sobre o Sono e Estilo de Vida
